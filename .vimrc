@@ -12,8 +12,6 @@ set list listchars=tab:>-,trail:+
 set number
 set title
 syntax on
-" colorscheme ColoRio
-" colorscheme evening
 colorscheme torte
 
 " # Search
