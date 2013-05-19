@@ -11,6 +11,7 @@ Main used files
 .vimrc<br />
 .emacs<br />
 .emacs.d/*<br />
+.gitconfig<br />
 
 
 I haven't decided how much stuff I will put in, but should be all the basic settings I use, sometime in the future.
