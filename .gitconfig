@@ -1,0 +1,19 @@
+[user]
+	name = RyzCode
+	email = ryzcode@gmail.com
+[github]
+	user = ryzcode
+[color]
+	branch = true
+	ui = true
+	diff = true
+	status = true
+[alias]
+	s = status
+	ci = commit
+	co = checkout
+	ls = branch -a
+[help]
+	autocorrect = 1
+[push]
+	default = simple
