@@ -4,6 +4,7 @@ Dotfiles used and defined by RyzCode
 Since May 19, 2013
 
 by RyzCode
+
 ------------------------------------------------------------
 
 ##About this repository
