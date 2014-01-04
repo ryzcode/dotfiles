@@ -11,11 +11,11 @@ Since May 19, 2013
 
 This repository holds a bunch of used files for default setup such as below files
 
-.bashrc<br />
-.vimrc<br />
-.profile<br />
-.emacs.d/*<br />
-.gitconfig<br />
+`.bashrc`
+`.vimrc`
+`.profile`
+`.emacs.d/*`
+`.gitconfig`
 
 
 ##Development Environment
