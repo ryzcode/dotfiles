@@ -1,10 +1,9 @@
-#Dotfiles used and defined by RyzCode
-
 ------------------------------------------------------------
+Dotfiles used and defined by RyzCode
+
 Since May 19, 2013
-    by RyzCode
 
-
+by RyzCode
 ------------------------------------------------------------
 
 ##About this repository
@@ -24,8 +23,8 @@ Although all files above should work regardless of working environment, my devel
 
 *As of Jan 1, 2014*
 
-Macbook Air, 11-inch, Mid 2011 ---- Core i7 with 4G of RAM<br />
-
+* Macbook Air, 11-inch, Mid 2011 ---- Core i7 with 4G of RAM
+* Win7 / Win8 machines (rarely used)
 
 
 ###Contact / More Information
