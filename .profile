@@ -6,7 +6,7 @@
 ### Environmental variable setup
 ### etc.
 ###
-### Since 2014/01/01
+### Since Jan 1, 2014
 ###
 ###--------------------------------
 
