@@ -30,4 +30,4 @@ Although all files above should work regardless of working environment, my devel
 
 ###Contact / More Information
 
-If you need to contact RyzCode or need some more information, check-out [ryzcode.net]
+If you need to contact RyzCode or need some more information, check-out [ryzcode.net](http://ryzcode.net/ "RyzCode")
