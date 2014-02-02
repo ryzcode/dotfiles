@@ -1,0 +1,10 @@
+;; Files to ignore for Emacs
+;;
+;; Setup is mostly done via package.el,
+;; and thus, actual elisp files are omitted from git
+;;
+
+elpa/
+
+
+
