@@ -17,3 +17,5 @@
 	autocorrect = 1
 [push]
 	default = simple
+[core]
+	excludesfile = /Users/RyzCode/.gitignore_global
