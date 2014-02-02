@@ -4,7 +4,7 @@
 ;; and thus, actual elisp files are omitted from git
 ;;
 
-elpa/
+.emacs.d/elpa/
 
 
 
