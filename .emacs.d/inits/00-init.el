@@ -35,3 +35,6 @@
 
 ;; Auto reload
 (global-auto-revert-mode 1)
+
+;;;----> Enable CUA mode for rectangle selection
+(cua-mode t)

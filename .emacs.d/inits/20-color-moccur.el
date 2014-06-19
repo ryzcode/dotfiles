@@ -1,2 +1,0 @@
-(require 'color-moccur)
-

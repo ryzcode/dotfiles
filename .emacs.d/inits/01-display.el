@@ -1,4 +1,4 @@
-;; Highlight current line
+;;;----> Highlight current line
 (defface hlline-face
   '((((class color)
       (background dark))
@@ -12,7 +12,7 @@
 (setq hl-line-face 'hlline-face)
 (global-hl-line-mode)
 
-;; Visualize tabs and spaces
+;;;----> Visualize tabs and spaces
 (defface my-face-tab         '((t (:background "Yellow"))) nil :group 'my-faces)
 (defface my-face-zenkaku-spc '((t (:background "LightBlue"))) nil :group 'my-faces)
 (defface my-face-spc-at-eol  '((t (:foreground "Red" :underline t))) nil :group 'my-faces)
@@ -32,19 +32,19 @@
 (font-lock-mode t)
 (font-lock-fontify-buffer)
 
-;; Show line numbers
+;;;----> Show line numbers
 (line-number-mode 1)
 (column-number-mode 1)
 
-;; Display time
+;;;----> Display time
 (display-time)
 
-;; Disable startup message
+;;;----> Disable startup message
 (setq inhibit-startup-screen t)
 
-;; Light up paired parenthesis
+;;;----> Light up paired parenthesis
 (show-paren-mode t)
 
-;; Show path when buffers have a common name
+;;;----> Show path when buffers have a common name
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'post-forward-angle-brackets)
