@@ -1,8 +1,12 @@
+;;;----> Remove Toolbar
+(tool-bar-mode -1)
+
 ;;;----> Highlight current line
 (defface hlline-face
   '((((class color)
       (background dark))
-     (:background "dark slate gray"))
+;     (:background "dark slate gray"))
+     (:background "#151c70"))
     (((class color)
       (background light))
      (:background  "#151c70"))
@@ -35,6 +39,7 @@
 ;;;----> Show line numbers
 (line-number-mode 1)
 (column-number-mode 1)
+(linum-mode 1)
 
 ;;;----> Display time
 (display-time)
