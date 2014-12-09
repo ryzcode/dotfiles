@@ -25,7 +25,10 @@
 ;;; Thanks to http://batsov.com/
 (require 'cl) ; loop requires cl to be loaded - need to review this dependency
 (defvar prelude-packages
-  '(init-loader helm web-mode gist)
+  '(init-loader helm web-mode gist cider clojure-mode color-theme color-moccur dash epl
+                gh ghc ghci-completion git magit haskell-mode highlight-symbol
+                paredit rainbow-blocks rainbow-delimiters rainbow-mode
+                yasnippet)
 ;  '(ack-and-a-half auctex clojure-mode coffee-mode deft expand-region
 ;                   gist groovy-mode haml-mode haskell-mode inf-ruby
 ;                   magit magithub markdown-mode paredit projectile python
