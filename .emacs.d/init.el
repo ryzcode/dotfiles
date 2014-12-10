@@ -28,7 +28,7 @@
   '(init-loader helm web-mode gist cider clojure-mode color-theme color-moccur dash epl
                 gh ghc ghci-completion git magit haskell-mode highlight-symbol
                 paredit rainbow-blocks rainbow-delimiters rainbow-mode
-                yasnippet)
+                yasnippet python-mode)
 ;  '(ack-and-a-half auctex clojure-mode coffee-mode deft expand-region
 ;                   gist groovy-mode haml-mode haskell-mode inf-ruby
 ;                   magit magithub markdown-mode paredit projectile python
