@@ -11,12 +11,13 @@ __error_code=0
 
 ###----> Create symlinks to all dotfiles defined here under home directory
 echo "Creating symlinks to git installed dotfiles..."
-find $PWD ! \( \
+find $PWD \
+    -maxdepth 1 -mindepth 1 \
+    ! \( \
     -name .git -o \
     -name README.md -o \
     -name setup.sh -o \
     -name .DS_Store \) \
-    -maxdepth 1 -mindepth 1 \
     -exec ln -s {} ~/ \; 2> /tmp/dotfiles_setup.log
 
 __error=$(</tmp/dotfiles_setup.log)
