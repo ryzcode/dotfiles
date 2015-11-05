@@ -50,6 +50,9 @@
 ;;;----> Light up paired parenthesis
 (show-paren-mode t)
 
+;;;----> Set rainbow colors for parathesis
+(global-rainbow-delimiters-mode)
+
 ;;;----> Show path when buffers have a common name
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'post-forward-angle-brackets)
